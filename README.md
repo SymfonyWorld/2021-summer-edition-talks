@@ -156,7 +156,7 @@ As part of the Symfony UX initiative, I created an official integration between 
 During this talk, we'll discover how the library works, how to leverage it to enhance your Twig templates, how to add real-time features to your websites using the Mercure integration of Symfony Turbo and how to test your Turbo apps with Symfony Panther!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/dunglas/pedal-to-the-metal-introducing-symfony-turbo)  
 [Video](https://live.symfony.com/account/replay/video/588)
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
