@@ -34,7 +34,7 @@ This presentation will give you insights into how things work inside the Form
 component, and how you can hook in it.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/alexandresalome/symfony-forms-advanced-use-cases)  
 [Video](https://live.symfony.com/account/replay/video/589)
 
 By [Alexandre Salomé](https://connect.symfony.com/profile/alexandresalome)  
