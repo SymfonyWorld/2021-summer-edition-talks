@@ -363,7 +363,7 @@ with zero JavaScript?
 Let's go on a journey!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/weaverryan/a-dynamic-frontend-with-twig-and-zero-javascript-say-hello-to-twig-components)  
 [Video](https://live.symfony.com/account/replay/video/594)
 
 By [Ryan Weaver](https://connect.symfony.com/profile/weaverryan)  
